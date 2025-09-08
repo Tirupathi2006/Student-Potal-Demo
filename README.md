@@ -1,1 +1,1 @@
-# Student-Potal-Demo
+# Student-Portal-Demo
